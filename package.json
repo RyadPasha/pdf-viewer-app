@@ -1,0 +1,17 @@
+{
+  "name": "pdf-viewer-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
+  },
+  "dependencies": {
+    "@react-pdf-viewer/core": "3.11.0",
+    "@react-pdf-viewer/default-layout": "3.11.0",
+    "@react-pdf-viewer/locales": "^1.0.0",
+    "pdfjs-dist": "^3.2.146",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1"
+  }
+}
